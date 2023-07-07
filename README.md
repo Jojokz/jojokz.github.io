@@ -1,3 +1,3 @@
 # jojokz.github.io
-Software Engineer with creative thinking
-[Webpage on Engineering](https://exp.gndec.ac.in/j)
+
+[Webpage on Engineering using no code framework](https://exp.gndec.ac.in/j)
